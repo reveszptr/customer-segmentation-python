@@ -29,23 +29,11 @@ customer-segmentation-python/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
+│   └── 01_customer_segmentation_eda.ipynb
 ├── src/
+│   └── __init__.py
 ├── images/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 └── main.py
-
-
-
----
-
-### `requirements.txt`
-
-```txt
-pandas
-numpy
-matplotlib
-scikit-learn
-jupyter
-openpyxl# customer-segmentation-python
